@@ -221,7 +221,48 @@ input[type="button"].button-primary:focus {
   color: #FFF;
   background-color: #1EAEDB;
   border-color: #1EAEDB; }
-
+.button.button-const,
+button.button-const,
+input[type="submit"].button-const,
+input[type="reset"].button-const,
+input[type="button"].button-const {
+  color: #FFF;
+  background-color: #73c739;
+  border-color: #73c739; }
+.button.button-const:hover,
+button.button-const:hover,
+input[type="submit"].button-const:hover,
+input[type="reset"].button-const:hover,
+input[type="button"].button-const:hover,
+.button.button-const:focus,
+button.button-const:focus,
+input[type="submit"].button-const:focus,
+input[type="reset"].button-const:focus,
+input[type="button"].button-const:focus {
+  color: #FFF;
+  background-color: #62af2c;
+  border-color: #62af2c; }
+.button.button-dest,
+button.button-dest,
+input[type="submit"].button-dest,
+input[type="reset"].button-dest,
+input[type="button"].button-dest {
+  color: #FFF;
+  background-color: #F06449;
+  border-color: #F06449; }
+.button.button-dest:hover,
+button.button-dest:hover,
+input[type="submit"].button-dest:hover,
+input[type="reset"].button-dest:hover,
+input[type="button"].button-dest:hover,
+.button.button-dest:focus,
+button.button-dest:focus,
+input[type="submit"].button-dest:focus,
+input[type="reset"].button-dest:focus,
+input[type="button"].button-dest:focus {
+  color: #FFF;
+  background-color: #d45037;
+  border-color: #d45037; }
 
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
